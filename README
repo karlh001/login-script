@@ -1,0 +1,8 @@
+# Simple PHP log-in script
+
+## Install
+
+- Import sql/new_import.sql into your MySQL database
+- Edit php/cnx.php with database log-in details
+- Copy folders to web directory
+- Test with username: karl and password: karl
